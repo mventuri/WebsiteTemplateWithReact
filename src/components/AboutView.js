@@ -1,0 +1,16 @@
+import React, {Component} from 'react';
+    class AboutView extends Component {
+        render(){
+            return (
+                <div>
+                    <h1>About</h1>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus auctor risus purus, at rhoncus leo placerat et. Etiam iaculis, est sit amet fringilla placerat, magna orci imperdiet ligula, non lobortis massa erat nec quam. Vivamus nulla nunc, finibus quis sollicitudin auctor, ultricies nec felis. Sed tristique justo purus. Etiam non lorem varius dui malesuada molestie. Sed condimentum mi sed turpis elementum, cursus hendrerit diam suscipit. Quisque suscipit libero neque, in gravida velit scelerisque vitae. Duis a ante vitae ex porta volutpat. Curabitur a ligula sit amet orci semper commodo at vel justo. Duis vulputate vestibulum imperdiet. Phasellus non mollis nunc. Phasellus accumsan maximus arcu, eu rhoncus leo iaculis nec. Mauris molestie libero lectus, id eleifend augue eleifend id. Vivamus enim risus, dignissim et efficitur nec, viverra ac quam. Duis sed ligula semper, faucibus risus sed, ornare nisi.</p>
+                    <img src="https://images.unsplash.com/photo-1504627019264-0d675fde3174?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=44994cc7280566951c27101cdbc4e296&auto=format&fit=crop&w=1334&q=80" alt="about"/>
+                    <p>Aenean sollicitudin sagittis tellus, at aliquam sem pellentesque id. Suspendisse euismod sodales erat, in elementum ligula malesuada in. Nulla ac augue faucibus, tempus sapien nec, tincidunt eros. Nunc orci nisl, facilisis non eros vel, fringilla faucibus magna. Pellentesque luctus venenatis convallis. Cras eu massa vestibulum, consequat ipsum et, lacinia magna. Vivamus lacinia rutrum enim sed feugiat. Aliquam ornare magna at urna vestibulum, vel tincidunt lacus euismod. Integer in orci nunc.</p>
+                    <p>Mauris non magna massa. Nunc pellentesque sapien ac ipsum mollis, eu congue felis ultricies. Duis eget nibh condimentum, molestie metus a, dapibus elit. Sed eget vulputate massa. Nullam laoreet massa sit amet dolor vestibulum scelerisque. Sed cursus scelerisque eros sit amet lacinia. Suspendisse quis tempor eros, eu convallis arcu. Phasellus ut felis nulla. Nam interdum suscipit ipsum, sed convallis enim gravida scelerisque. Praesent placerat, ex nec commodo malesuada, sem ex venenatis quam, vel aliquam turpis augue at ante. Quisque consectetur augue porttitor ipsum laoreet, eget mattis lorem tincidunt. Donec vestibulum justo a dui suscipit, quis tempor dui auctor. Aliquam vehicula auctor lorem quis vestibulum. Duis tincidunt eleifend dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis venenatis quis neque non mattis.</p>
+                    <p>Maecenas a sapien consectetur, volutpat libero in, mattis felis. Donec sit amet sem leo. Aenean in condimentum sapien. Mauris porttitor facilisis placerat. Sed ac lectus eleifend nunc euismod cursus id et nunc. Vivamus nisl dolor, interdum eget lacus sit amet, porta cursus velit. In turpis erat, consectetur vitae lobortis eu, egestas ut magna. Ut lorem justo, hendrerit id tincidunt a, condimentum in nunc. Nullam sollicitudin dolor a rhoncus efficitur.</p>
+                </div>
+            );
+        }
+    }
+    export default AboutView;

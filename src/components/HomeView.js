@@ -1,0 +1,22 @@
+import React, { Component } from 'react';
+	class HomeView extends Component {
+		render() {
+			return (
+				<div>
+					<h1>This is the home page</h1>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et justo nec elit aliquam pharetra. Proin gravida varius orci, sit amet cursus lacus iaculis et. Nulla hendrerit a nibh ac vulputate. Cras non lacus eget eros tincidunt efficitur a at dolor. Cras aliquet nec est ac pulvinar. Pellentesque imperdiet lorem non mauris congue, eu iaculis eros placerat. Etiam non scelerisque dui. Suspendisse enim augue, interdum id sem vel, volutpat aliquet dui. Sed porta erat in ipsum ullamcorper egestas. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce vitae fermentum purus. Nulla tincidunt tincidunt nibh, sit amet blandit felis aliquam vel. Proin vehicula dignissim justo, at faucibus nibh rhoncus et. Vivamus sed leo quis sapien consectetur blandit id at tellus. Nulla convallis orci tortor, in eleifend leo vulputate at. Integer id quam a diam mattis pretium.</p>
+
+                    <p>Curabitur vulputate lectus nec eros viverra, ac sollicitudin neque ultricies. Pellentesque sit amet lectus sollicitudin, aliquam magna vel, aliquet elit. Quisque ut urna lobortis, vehicula ipsum nec, sodales tellus. Quisque ut diam sed diam volutpat pellentesque sed non nisl. Integer ut tristique tellus, et efficitur nulla. Sed tristique justo velit, at auctor massa interdum id. Aliquam efficitur sed diam eu ullamcorper. Cras dolor dolor, vehicula nec urna vitae, luctus dapibus enim. Pellentesque malesuada orci ut libero viverra congue. Praesent vitae dictum sem. Ut sagittis placerat massa, at faucibus risus ultricies sit amet. Vestibulum elementum iaculis aliquet. Fusce ullamcorper eu ipsum nec placerat. Aenean eget lectus at diam bibendum maximus a id enim. Vestibulum tristique quam ipsum, at volutpat felis condimentum sed.</p>
+
+                    <img src="https://images.unsplash.com/photo-1539466337322-9ced405e534a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ac31d7161e242e76798c55a525c02ca3&auto=format&fit=crop&w=1500&q=80" alt="Home" />
+
+                    <p>Nulla eget augue in nisl ultricies aliquam. Pellentesque non sodales eros. Nunc neque metus, tempus eget massa ut, sollicitudin pharetra magna. Maecenas condimentum congue diam sit amet aliquet. Mauris non tortor in nulla malesuada fringilla. Sed scelerisque pellentesque nisi convallis consequat. Ut pretium aliquam sagittis. Proin pretium ipsum id nulla malesuada efficitur. Suspendisse vitae ultrices risus. Nunc ac commodo tellus. Donec sollicitudin quam vitae metus tincidunt vulputate.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et justo nec elit aliquam pharetra. Proin gravida varius orci, sit amet cursus lacus iaculis et. Nulla hendrerit a nibh ac vulputate. Cras non lacus eget eros tincidunt efficitur a at dolor. Cras aliquet nec est ac pulvinar. Pellentesque imperdiet lorem non mauris congue, eu iaculis eros placerat. Etiam non scelerisque dui. Suspendisse enim augue, interdum id sem vel, volutpat aliquet dui. Sed porta erat in ipsum ullamcorper egestas. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce vitae fermentum purus. Nulla tincidunt tincidunt nibh, sit amet blandit felis aliquam vel. Proin vehicula dignissim justo, at faucibus nibh rhoncus et. Vivamus sed leo quis sapien consectetur blandit id at tellus. Nulla convallis orci tortor, in eleifend leo vulputate at. Integer id quam a diam mattis pretium.</p>
+
+                    <p>Curabitur vulputate lectus nec eros viverra, ac sollicitudin neque ultricies. Pellentesque sit amet lectus sollicitudin, aliquam magna vel, aliquet elit. Quisque ut urna lobortis, vehicula ipsum nec, sodales tellus. Quisque ut diam sed diam volutpat pellentesque sed non nisl. Integer ut tristique tellus, et efficitur nulla. Sed tristique justo velit, at auctor massa interdum id. Aliquam efficitur sed diam eu ullamcorper. Cras dolor dolor, vehicula nec urna vitae, luctus dapibus enim. Pellentesque malesuada orci ut libero viverra congue. Praesent vitae dictum sem. Ut sagittis placerat massa, at faucibus risus ultricies sit amet. Vestibulum elementum iaculis aliquet. Fusce ullamcorper eu ipsum nec placerat. Aenean eget lectus at diam bibendum maximus a id enim. Vestibulum tristique quam ipsum, at volutpat felis condimentum sed.</p>
+
+                </div>
+			);
+		}
+	}
+	export default HomeView;
